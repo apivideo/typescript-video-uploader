@@ -58,7 +58,7 @@ meta:
 [api.video](https://api.video/) is the video infrastructure for product builders. Lightning fast video APIs for integrating, scaling, and managing on-demand & low latency live streaming features in your app.
 
 </documentation_only>-->
-## Project description
+## Project description 
 
 Typescript library to upload videos to api.video using delegated upload token (or usual access token) from the front-end. 
 
@@ -66,7 +66,7 @@ It allows you to upload videos in two ways:
 - standard upload: to send a whole video file in one go
 - progressive upload: to send a video file by chunks, without needing to know the final size of the video file
 
-## Getting started
+## Getting started 
 
 ### Installation
 
